@@ -79,3 +79,6 @@ Building Enterprise Java Applications the Spring Way
 - https://medium.com/better-programming/secure-a-spring-boot-rest-api-with-json-web-token-reference-to-angular-integration-e57a25806c50
 - https://pattern-match.com/blog/2018/10/17/springboot2-with-oauth2-integration/
 - https://www.youtube.com/watch?time_continue=422&v=wxebTn_a930
+=======
+# smsmkt2020
+smsmkt2020
